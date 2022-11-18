@@ -1,0 +1,19 @@
+{
+  "name": "ezjava",
+  "version": "1.0.0",
+  "description": "Makes java ezier",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rxn69/ezjava.git"
+  },
+  "author": "Ren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rxn69/ezjava/issues"
+  },
+  "homepage": "https://github.com/Rxn69/ezjava#readme"
+}
