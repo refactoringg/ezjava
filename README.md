@@ -1,4 +1,3 @@
-<center>
 # EZJava
 ## Currently running on v1
 
@@ -7,4 +6,3 @@ Compiles a custom language to Java.
 
 Compile: `ezjava <source> <out>`
 
-</center>
