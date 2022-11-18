@@ -1,0 +1,6 @@
+syscls Example {
+    pub stat nul main(str[] args) {
+        Sys.log("Hello, world!");
+        Sys.log("EZ Java");
+    }
+}

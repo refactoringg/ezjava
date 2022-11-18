@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rxn69/ezjava/issues"
   },
-  "homepage": "https://github.com/Rxn69/ezjava#readme"
+  "homepage": "https://github.com/Rxn69/ezjava#readme",
+  "dependencies": {
+    "tab": "^1.0.0"
+  }
 }
